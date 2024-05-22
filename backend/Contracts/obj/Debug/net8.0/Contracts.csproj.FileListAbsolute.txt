@@ -1,0 +1,16 @@
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\bin\Debug\net8.0\Contracts.deps.json
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\bin\Debug\net8.0\Contracts.dll
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\bin\Debug\net8.0\Contracts.pdb
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\bin\Debug\net8.0\Domain.dll
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\bin\Debug\net8.0\Domain.pdb
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\obj\Debug\net8.0\Contracts.csproj.Up2Date
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\obj\Debug\net8.0\Contracts.dll
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\obj\Debug\net8.0\Contracts.pdb
+D:\Programming\full_stack_projects\eCommerce\backend\Contracts\obj\Debug\net8.0\ref\Contracts.dll
